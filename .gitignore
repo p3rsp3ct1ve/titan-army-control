@@ -1,0 +1,24 @@
+# Local environments and generated files
+.venv*/
+.uv-cache/
+.uv-python/
+__pycache__/
+*.py[cod]
+build/
+dist/
+
+# Monitor investigation materials, not part of the application
+.analysis-tools/
+.capture-tools/
+VIEW MORE WIDGET/
+TA toggle en.exe
+V9eng.pyc
+capture_vcp.js
+capture_vcp.py
+capture-vcp.cmd
+vcp-capture.log
+linux_ddc_probe.py
+test_monitor_control.py
+*-dimming.txt
+ta logo.png
+TitanArmyControl/*-key.png

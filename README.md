@@ -31,5 +31,3 @@ bash build-linux-deb.sh
 ```
 
 Результат: `dist/titan-army-control_0.1.3_all.deb`. Для автономного Linux-бинарника нужен Python 3 с Tk/Tcl и `bash build-linux.sh`; результат — `dist/TitanArmyControl-linux`.
-
-Версия хранится в `TitanArmyControl/version.py`. Исходники приложены к каждому тегу GitHub автоматически; собранные приложения нужно прикреплять к Release отдельно.
